@@ -1,65 +1,60 @@
-<div align="center">  
+<h1 align="center">  
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" height="40px">  
+  Hey there, I'm Bhavya Madhurima!  
+</h1>  
 
-  <!-- VISITOR COUNTER -->  
-  <img src="https://komarev.com/ghpvc/?username=bhavya-madhurima&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />  
-
-  <!-- WAVE GIF GREETING -->  
-  <h1>  
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="wave"/>  
-    Hey there! I'm Bhavya Madhurima  
-  </h1>  
-
-  <!-- TYPING EFFECT -->  
+<p align="center">  
   <a href="https://git.io/typing-svg">  
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38B2FF&center=true&vCenter=true&width=600&lines=AIML+Enthusiast+%26+Software+Developer;AI+%26+Machine+Learning+Explorer;Always+Learning+%2C+Always+Building;Turning+Coffee+into+Code+%E2%98%95" alt="Typing SVG" />  
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=600&color=00D9FF&center=true&vCenter=true&random=false&width=600&height=70&lines=AIML+Enthusiast+%26+Software+Developer;Learning+%E2%86%92+Building+%E2%86%92+Innovating;Turning+ideas+into+intelligent+solutions" alt="Typing SVG" />  
   </a>  
+</p>  
 
-</div>  
+<p align="center">  
+  <img src="https://komarev.com/ghpvc/?username=bhavya-madhurima&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />  
+</p>  
 
 ---  
 
 ## 👩‍💻 About Me  
 
-I'm a passionate **AIML student** and aspiring **Software Developer** who loves exploring the intersection of artificial intelligence and real-world applications.  
+I'm an **AIML enthusiast and aspiring Software Developer** passionate about building intelligent systems that make a difference. I love diving deep into **Machine Learning**, **AI**, and crafting clean **Java** and **HTML** solutions. Every line of code is a step toward mastering the art of software development.  
 
-- 🌱 Currently diving deep into **AI, ML, and Software Development**  
-- 💡 Love solving problems with **Java** and building smart solutions  
-- 🚀 Always excited to collaborate on open-source projects  
-- 🎯 Goal: Build intelligent systems that make a difference  
-- ⚡ Fun fact: I debug better with coffee ☕ and chill music 🎧  
+- 🌱 Currently sharpening my skills in **AI/ML** and **Software Development**  
+- 🎯 Goal: Build projects that blend **intelligence with great design**  
+- 💡 I believe in learning by building — and I build a lot  
+- ☕ Powered by curiosity, coffee, and clean code  
 
 ---  
 
 ## 🛠️ Tech Stack  
 
-### 🎨 Frontend  
+### ⚙️ Languages & Core  
 <p align="center">  
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>  
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />  
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />  
 </p>  
 
-### ⚙️ Backend & Languages  
+### 🤖 AI & Machine Learning  
 <p align="center">  
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>  
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-00BCD4?style=for-the-badge&logo=openai&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />  
 </p>  
 
-### 🤖 AI & ML  
+### 🛠️ Tools & Platforms  
 <p align="center">  
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge&logo=deepmind&logoColor=white" alt="AI"/>  
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="ML"/>  
-</p>  
-
-### 🛡️ Tools & Platforms  
-<p align="center">  
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>  
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>  
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>  
-  <img src="https://img.shields.io/badge/Software%20Development-5C3EE8?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Software Development"/>  
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />  
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />  
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />  
 </p>  
 
 ---  
 
-## 🌐 Connect with Me  
+## 📌 Recent Projects  
 
-<p align="center">  
-  <a href="https://www.linkedin.com/in/chepuru-bhavya-madhurima-14805739b/" target="_blank">  
-    <img
+| Project | Description | Tech Stack |  
+|---------|-------------|------------|  
+| 🧠 **AI Chat Bot** | Intelligent conversational agent using ML models | Python, NLP, Scikit-learn |  
+| 🌐 **Portfolio Website** | Personal portfolio showcasing skills & projects | HTML, CSS, JavaScript |  
+| 📊 **ML Data Analyzer** | Data analysis & visualization tool with predictive models | Python, Pandas, Mat
